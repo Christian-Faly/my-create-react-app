@@ -1,5 +1,8 @@
 This is my react create app
 
+ready to start a project with Empty project ReactJS Vite preconfigured by Typescript,
+ESLint/airbnb and Prettier
+
 Vite + React + TypeScript + eslint with airbnb + prettier
 
 1 - download
